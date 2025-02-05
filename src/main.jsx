@@ -9,7 +9,6 @@ import BottomNavbar from "./components/bottom-navbar.jsx";
 import Shop from "./pages/shop.jsx";
 import Stores from "./pages/stores.jsx";
 import MegaMenu from "./pages/mega-menu.jsx";
-import Docs from "./pages/Docs.jsx";
 import Dashboard from "./pages/dashboard.jsx";
 import Blog from "./pages/blog.jsx";
 import SignIn from "./pages/sign-in.jsx";
@@ -18,6 +17,7 @@ import Reset_Password from "./components/forget-password.jsx";
 import SingleCategory from "./pages/single-category.jsx";
 import ProductDescerption from "./pages/product-description.jsx";
 import Footer from "./components/footer.jsx";
+import Docs from "./pages/Docs.jsx";
 
 
 
