@@ -17,7 +17,6 @@ import Reset_Password from "./components/forget-password.jsx";
 import SingleCategory from "./pages/single-category.jsx";
 import ProductDescerption from "./pages/product-description.jsx";
 import Footer from "./components/footer.jsx";
-import Docs from "./pages/Docs.jsx";
 
 
 
@@ -74,7 +73,6 @@ export function Root() {
         <Route path="/shop" element={<Shop></Shop>} />
         <Route path="/stores" element={<Stores></Stores>} />
         <Route path="/mega-menu" element={<MegaMenu></MegaMenu>} />
-        <Route path="/docs" element={<Docs />} />
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/sign_in" element={<SignIn />} />
